@@ -2,7 +2,7 @@
 
 <!--
 **UncrownedXd/UncrownedXd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <h1 align="center">Hi👋, I'm Rishan Shrestha</h1>
 <h3 align="center">Computer Science Student at UCLAN Cyprus
 
@@ -19,4 +19,4 @@
 <p align="left">
   <img alt="coding" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2IzNzZlbnNpaG5xcngzZWZiM3dlbjRzdmNvMXJsN3kzY3Jqc281bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b01Wv8oROOFa/giphy.gif"/>
 </p>
--->
+
